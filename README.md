@@ -16,6 +16,42 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Enterprise Security``
 
+<details close>
+    <summary>Configuration Management</summary>
+
+- [Configuration Management](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-configuration-management.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Protecting Data</summary>
+
+- [Protecting Data](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-protecting-data.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Data Loss Prevention</summary>
+
+- [Data Loss Prevention](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-data-loss-prevention.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Managing Security</summary>
+
+- [Managing Security](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-managing-security.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Site Resiliency</summary>
+
+- [Site Resiliency](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-site-resiliency.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Honeypots and Deception</summary>
+
+- [Honeypots and Deception](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/enterprise-security/syp-honeypots-and-deception.ipynb#a) <br/>
+</details>
+
 ##### ``Virtualization and Cloud Computing``
 
 ##### ``Secure Application Development``
