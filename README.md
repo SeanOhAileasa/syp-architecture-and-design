@@ -86,6 +86,36 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Secure Application Development``
 
+<details close>
+    <summary>Secure Deployments</summary>
+
+- [Secure Deployments](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/secure-application-development/syp-secure-deployments.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Provisioning and Deprovisioning</summary>
+
+- [Provisioning and Deprovisioning](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/secure-application-development/syp-provisioning-and-deprovisioning.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Secure Coding Techniques</summary>
+
+- [Secure Coding Techniques](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/secure-application-development/syp-secure-coding-techniques.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Software Diversity</summary>
+
+- [Software Diversity](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/secure-application-development/syp-software-diversity.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Automation and Scripting</summary>
+
+- [Automation and Scripting](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/secure-application-development/syp-automation-and-scripting.ipynb#a) <br/>
+</details>
+
 ##### ``Authentication and Authorization``
 
 ##### ``Resilience``
