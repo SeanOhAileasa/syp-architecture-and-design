@@ -54,6 +54,36 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Virtualization and Cloud Computing``
 
+<details close>
+    <summary>Cloud Models</summary>
+
+- [Cloud Models](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/virtualization-and-cloud-computing/syp-cloud-models.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Edge and Fog Computing</summary>
+
+- [Edge and Fog Computing](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/virtualization-and-cloud-computing/syp-edge-and-fog-computing.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Designing the Cloud</summary>
+
+- [Designing the Cloud](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/virtualization-and-cloud-computing/syp-designing-the-cloud.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Infrastructure as Code</summary>
+
+- [Infrastructure as Code](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/virtualization-and-cloud-computing/syp-infrastructure-as-code.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Virtualization Security</summary>
+
+- [Virtualization Security](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/virtualization-and-cloud-computing/syp-virtualization-security.ipynb#a) <br/>
+</details>
+
 ##### ``Secure Application Development``
 
 ##### ``Authentication and Authorization``
