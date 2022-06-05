@@ -118,6 +118,24 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Authentication and Authorization``
 
+<details close>
+    <summary>Authentication Methods</summary>
+
+- [Authentication Methods](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/authentication-and-authorization/syp-authentication-methods.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Biometrics</summary>
+
+- [Biometrics](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/authentication-and-authorization/syp-biometrics.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Multi-factor Authentication</summary>
+
+- [Multi-factor Authentication](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/authentication-and-authorization/syp-multi-factor-authentication.ipynb#a) <br/>
+</details>
+
 ##### ``Resilience``
 
 ##### ``Embedded Systems``
