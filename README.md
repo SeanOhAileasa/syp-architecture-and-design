@@ -138,6 +138,42 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Resilience``
 
+<details close>
+    <summary>Disk Redundancy</summary>
+
+- [Disk Redundancy](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-disk-redundancy.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Network Redundancy</summary>
+
+- [Network Redundancy](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-network-redundancy.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Power Redundancy</summary>
+
+- [Power Redundancy](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-power-redundancy.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Replication</summary>
+
+- [Replication](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-replication.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Backup Types</summary>
+
+- [Backup Types](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-backup-types.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Resiliency</summary>
+
+- [Resiliency](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/resilience/syp-resiliency.ipynb#a) <br/>
+</details>
+
 ##### ``Embedded Systems``
 
 ##### ``Physical Security Controls``
