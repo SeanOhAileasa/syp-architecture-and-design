@@ -176,6 +176,24 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Embedded Systems``
 
+<details close>
+    <summary>Embedded Systems</summary>
+
+- [Embedded Systems](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/embedded-systems/syp-embedded-systems.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Embedded Systems Communication</summary>
+
+- [Embedded Systems Communication](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/embedded-systems/syp-embedded-systems-communication.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Embedded Systems Constraints</summary>
+
+- [Embedded Systems Constraints](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/embedded-systems/syp-embedded-systems-constraints.ipynb#a) <br/>
+</details>
+
 ##### ``Physical Security Controls``
 
 ##### ``Cryptographic Concepts``
