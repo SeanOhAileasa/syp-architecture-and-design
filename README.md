@@ -196,6 +196,24 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Physical Security Controls``
 
+<details close>
+    <summary>Physical Security Controls</summary>
+
+- [Physical Security Controls](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/physical-security-controls/syp-physical-security-controls.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Secure Areas</summary>
+
+- [Secure Areas](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/physical-security-controls/syp-secure-areas.ipynb#a) <br/>
+</details>
+
+<details close>
+    <summary>Secure Data Destruction</summary>
+
+- [Secure Data Destruction](https://nbviewer.org/github/SeanOhAileasa/syp-architecture-and-design/blob/main/rc/physical-security-controls/syp-secure-data-destruction.ipynb#a) <br/>
+</details>
+
 ##### ``Cryptographic Concepts``
 
 ## Credits
